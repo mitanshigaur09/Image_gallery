@@ -1,6 +1,3 @@
-# Image_gallery
-The Image Gallery project is a feature-rich web application with functionalities like image search, zoom and download, favorites, sign-in/sign-up, and a top button for easy navigation.
-
 # Image Gallery Project
 
 The Image Gallery project is a comprehensive web application that allows users to browse, search, and interact with a vast collection of images. It provides a user-friendly interface with advanced functionalities such as image search, zoom and download options, favorites, user authentication, and a convenient top button for navigation. This README file provides an overview of the project, its features, and instructions for setting up and running the application.
@@ -62,6 +59,6 @@ Contributions to the Image Gallery project are welcome! If you would like to con
 
 ## Contact
 
-If you have any questions or suggestions regarding the Image Gallery project, please feel free to contact us at [mitanshi.gaur09@gmail.com]
+If you have any questions or suggestions regarding the Image Gallery project, please feel free to contact us at mitanshi.gaur09@gmail.com
 
 Happy browsing and enjoy the Image Gallery!
