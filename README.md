@@ -24,7 +24,7 @@ To get started with the Image Gallery project, follow these steps:
 1. **Clone the repository:**
    ```
    git clone https://github.com/mitnshigaur09/image_gallery.git
-   cd image_gallery
+   cd image-gallery
    ```
 
 2. **Set up the environment:**
