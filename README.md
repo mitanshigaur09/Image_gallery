@@ -17,6 +17,10 @@ The Image Gallery project is a comprehensive web application that allows users t
 - **User Authentication:** User Authentication Libraries or Frameworks, Encryption
 - **Additional Libraries and Frameworks:** Front-end Framework (e.g., AngularJS), Image Zoom Libraries, UI Libraries, Scroll Library
 
+## Live Demo
+
+- **Link:** https://mitanshi-image-gallery.netlify.app/ 
+
 ## Getting Started
 
 To get started with the Image Gallery project, follow these steps:
